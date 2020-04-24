@@ -1,6 +1,17 @@
 mounter2
 ========
+-----------------------------------------
+A message from the developer:
 
+  Apologies for no further updates, i consider the code in good working order.
+  My lift took some unexpected turns and I have moved away from that github account,
+  As the original dev under a new name, and login I am unsure how to properly adress the change.
+  However the final version and any future updates will be held on github.com/nixheads.
+  
+  Sincerly,
+  Luna Faris
+  
+-----------------------------------------
 Hello ALL version 1.4.2 is finished.
 
 now no longer uses gksu.  udevil is used as a dependency instead 
